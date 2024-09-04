@@ -1,0 +1,14 @@
+.box1{
+    padding: 7%  8%;
+    border: solid 5px;
+    width: 5%;
+    margin-bottom: 100;
+}
+.circle
+{
+    border-radius: 200px;
+    border: solid 5px;
+    width: 200px;
+    height: 200px;
+    margin-left: 170%;
+}
