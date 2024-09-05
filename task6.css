@@ -1,0 +1,20 @@
+.box1{
+    padding: 1%;
+    border: solid 5px;
+    width: 10%;
+}
+.box2{
+    padding: 50%;
+    border: solid 5px;
+    width: 30%;
+    margin-left: 110%;
+}
+.box3
+{
+    padding: 100%;
+    border: solid 5px;
+    width: 30%;
+    margin-bottom: 100%;
+    margin-left: 300%;
+    margin-bottom: 100%;
+}
