@@ -1,0 +1,20 @@
+
+h1{
+    
+  width: 0;
+  height: 0; 
+  margin-left : 5%;
+  margin-bottom: 15%;
+  
+}
+.traiangle
+{
+    width: 0;
+   height: 0;
+    border-bottom: 30px solid blue;
+    border-left: 15px solid  transparent;
+    border-right: 15px solid transparent ;
+    margin-left: 10%;
+    margin-bottom: 1%;
+    margin-right: 150%;
+}
